@@ -1,0 +1,13 @@
+.cm-strong,
+.markdown-preview-view strong {
+	color: hsl(300, 100%, 50%) !important;
+}
+
+.cm-math {
+	font-size: smaller !important;
+	font-style: normal !important;
+}
+
+.cm-em {
+	font-style: normal !important;
+}
